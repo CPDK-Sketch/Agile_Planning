@@ -18,7 +18,7 @@ assignees: ''
    
  ```gherkin
  Feature [High-level description]
- Scenario[How works]
+ Scenario [How works]
  Given [some context]
  When [certain action is taken]
  Then [the outcome of action is observed]
